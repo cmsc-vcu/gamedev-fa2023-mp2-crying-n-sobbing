@@ -10,7 +10,7 @@ format:
 
 ## Unity Play Link
 
-Here's the link to play Sunsational! <https://play.unity.com/mg/other/sunsational_webgl>
+Here's the link to play Sunsational! <https://play.unity.com/mg/other/sunsational_webgl-28>
 
 ## Repository Link
 
