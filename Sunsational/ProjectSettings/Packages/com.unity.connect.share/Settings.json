@@ -12,9 +12,14 @@
                 "value": "{\"m_Value\":true}"
             },
             {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/rache/Intro to Game Dev/Project 2/gamedev-fa2023-mp2-crying-n-sobbing/Sunsational_WebGL;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"/Volumes/UUI/school/project2/oct 30 proj/copy of crying-n-sobbing repo/Sunsational_WebGL;C:/Users/rache/Intro to Game Dev/Project 2/gamedev-fa2023-mp2-crying-n-sobbing/Sunsational_WebGL;;;;;;;;\"}"
             }
         ]
     }
